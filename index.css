@@ -1,0 +1,39 @@
+body{margin-bottom: 20000px;}
+:root{--font-size: 20px; --primary-color: black;}
+
+.photo img{width: 225px; height: 240px; margin: 0; padding: 0; margin-top: -70px;}   .photo h1{margin-left: 500px;} 
+.photo a{margin-left: 800px; position: absolute;  margin-top: -70px; text-decoration: none; color: red;}
+.photo i{margin-left: 900px; position: absolute;  margin-top: -70px; text-decoration: none; color: red; cursor: pointer;}
+
+.ph a{margin-left: 1250px; position: absolute;  margin-top: -245px; text-decoration: none; color: black;}
+.ph i{margin-left: 1315px; position: absolute;  margin-top: -245px; text-decoration: none; color: black; cursor: pointer;}
+
+.ab a{margin-left: 1400px; position: absolute;  margin-top: -245px; text-decoration: none; color: green;}
+.ab i{margin-left: 1470px; position: absolute;  margin-top: -245px; text-decoration: none; color: green; cursor: pointer;}
+
+
+
+
+
+
+.taban{font-size: var(--font-size); background-color: red; border: 1px solid red; border-bottom: 16px;}
+.taban h1{margin-left: 500px;}
+.taban img{width: 150px; height: 150px; margin: 0; padding: 0; margin-top: -60px;}
+.taban b{color: black;}  .taban b:hover{color: red;}   .taban strong{margin-left: 500px;}
+.taban a{text-decoration: none; color: var(--primary-color);}
+
+.gövde{background-color: blue; border: 1px solid blue;}
+  .gövde p{font-size: var(--font-size);}  .gövde p:hover{color: blue;}
+  .gövde img{width: 150px; height: 150px; margin: 0; padding: 0; margin-top: -60px;}
+  .gövde a{text-decoration: none; color: var(--primary-color);}
+
+  .sırt{font-size: var(--font-size); background-color: yellow; border: 1px solid yellow; border-bottom: 16px;}
+  .sırt p{font-size: var(--font-size);} 
+  .sırt p:hover{color: yellow;}
+
+  .sırt img{width: 150px; height: 150px; margin: 0; padding: 0; margin-top: -60px;} 
+  .sırt a{text-decoration: none; color: var(--primary-color);}
+
+  .bel{font-size: var(--font-size); background-color: purple; border: 1px solid red; border-bottom: 16px;}
+  .bel p{font-size: var(--font-size);}  .bel p:hover{color: purple;}  .bel a{text-decoration: none; color: black;}
+  .bel img{width: 150px; height: 150px; margin: 0; padding: 0; margin-top: -60px;}
