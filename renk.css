@@ -1,0 +1,11 @@
+.log {padding: 30px;} 
+
+.in input{margin-top: 50px;}
+
+.buton input{width: 100px; margin-top: 40px; margin-left: 50px;}
+
+.kayıt a{text-decoration: none;} .kayıt a:hover{text-decoration: underline;}
+
+.kayıt label{margin-left: 60px; color: red;}
+
+.kayıt input{cursor: pointer;}
